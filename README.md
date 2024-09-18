@@ -10,6 +10,33 @@
 
 ---
 
+### 📊 GitHub Stats
+
+![Offsoc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=offsoc&show_icons=true&theme=dark)
+
+### 🔝 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offsoc&layout=compact&theme=dark)
+
+---
+
+### 🏆 GitHub Profile Summary Cards
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=offsoc&theme=github_dark)
+
+### 📊 Language Usage
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=offsoc&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=offsoc&theme=github_dark)
+
+### 📈 Contribution Graph
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=offsoc&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=offsoc&theme=github_dark&utcOffset=8)
+
+---
+---
+
 ### 🚀 Recommended Encrypted Communication Software
 
 1. **Mattermost Enterprise Edition**  
@@ -67,33 +94,5 @@ If you're looking for open-source alternatives to Okta with support for private 
    - Deployable on private servers, ideal for environments requiring high security and collaboration.
 
 These open-source IAM solutions offer powerful user authentication, single sign-on, multi-factor authentication, and user management features. They support private deployment and are suitable for running on your own servers or in private cloud environments. Choose the right tool based on your specific needs and technical environment.
-
----
-
-### 📊 GitHub Stats
-
-![Offsoc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=offsoc&show_icons=true&theme=dark)
-
-### 🔝 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offsoc&layout=compact&theme=dark)
-
----
-
-### 🏆 GitHub Profile Summary Cards
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=offsoc&theme=github_dark)
-
-### 📊 Language Usage
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=offsoc&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=offsoc&theme=github_dark)
-
-### 📈 Contribution Graph
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=offsoc&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=offsoc&theme=github_dark&utcOffset=8)
-
----
 
 ✨ **This repository is special because its `README.md` appears on your GitHub profile. You can click the Preview link to see your changes.** ✨
