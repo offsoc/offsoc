@@ -1,13 +1,4 @@
 # 👋 Hi, I’m @offsoc  
-
-🌍 **Interests:** Cybersecurity, Red Teaming, Open-source Intelligence (OSINT), Software Development  
-📚 **Currently Learning:** Rust, Advanced Bash Scripting, PowerShell for AD Management, Kubernetes  
-🤝 **Looking to Collaborate On:** Security tools, Open-source projects, Enterprise software development  
-📧 **How to Reach Me:** Contact me through encrypted channels  
-😄 **Pronouns:** He/Him  
-⚡ **Fun Fact:** Passionate about finding innovative security solutions and simplifying complex systems!  
-📧 **Tox:** `6E4F7D0C86D95FAF946FAFF1D59342447BD3AFF8337F5D77E08DCACF5F7F4A0BA98AAFFFE51C`
-
 ---
 
 ### 📊 GitHub Stats
@@ -35,36 +26,15 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=offsoc&theme=github_dark&utcOffset=8)
 
 ---
----
 
-### 🔄 Unsynced Upstream Branches
+🌍 **Interests:** Cybersecurity, Red Teaming, Open-source Intelligence (OSINT), Software Development  
+📚 **Currently Learning:** Rust, Advanced Bash Scripting, PowerShell for AD Management, Kubernetes  
+🤝 **Looking to Collaborate On:** Security tools, Open-source projects, Enterprise software development  
+📧 **How to Reach Me:** Contact me through encrypted channels  
+📧 **Tox:** `6E4F7D0C86D95FAF946FAFF1D59342447BD3AFF8337F5D77E08DCACF5F7F4A0BA98AAFFFE51C`
+😄 **Pronouns:** He/Him  
+⚡ **Fun Fact:** Passionate about finding innovative security solutions and simplifying complex systems!  
 
-Using GitHub API or a GitHub Action to detect branches that are not synchronized with the upstream repository. This section can include a badge or a list:
-
-![Unsynced Branches](https://img.shields.io/github/branches/detail/state/offsoc/repo-name/branch-name?label=Unsynced%20Branches&style=plastic)
-
-*(Replace `repo-name` and `branch-name` with actual values)*
-
----
-
-### 🌟 Recently Active Projects
-
-Here is a list of my recently active projects:
-
-1. [Project 1](https://github.com/offsoc/project1)  
-   ![Last Commit](https://img.shields.io/github/last-commit/offsoc/project1)
-
-2. [Project 2](https://github.com/offsoc/project2)  
-   ![Last Commit](https://img.shields.io/github/last-commit/offsoc/project2)
-
-3. [Project 3](https://github.com/offsoc/project3)  
-   ![Last Commit](https://img.shields.io/github/last-commit/offsoc/project3)
-
-*(Replace `project1`, `project2`, etc., with the actual project names)*
-
----
-
-✨ **This repository is special because its `README.md` appears on your GitHub profile. You can click the Preview link to see your changes.** ✨
 ---
 
 ### 🚀 Recommended Encrypted Communication Software
