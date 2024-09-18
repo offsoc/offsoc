@@ -1,6 +1,16 @@
 # 👋 Hi, I’m @offsoc  
 ---
 
+🌍 **Interests:** Cybersecurity, Red Teaming, Open-source Intelligence (OSINT), Software Development  
+📚 **Currently Learning:** Rust, Advanced Bash Scripting, PowerShell for AD Management, Kubernetes  
+🤝 **Looking to Collaborate On:** Security tools, Open-source projects, Enterprise software development  
+📧 **How to Reach Me:** Contact me through encrypted channels  
+![Tox Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tox_project_logo.png/20px-Tox_project_logo.png) **Tox:** `6E4F7D0C86D95FAF946FAFF1D59342447BD3AFF8337F5D77E08DCACF5F7F4A0BA98AAFFFE51C`  
+😄 **Pronouns:** He/Him  
+⚡ **Fun Fact:** Passionate about finding innovative security solutions and simplifying complex systems!  
+
+---
+
 ### 📊 GitHub Stats
 
 ![Offsoc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=offsoc&show_icons=true&theme=dark)
@@ -8,6 +18,10 @@
 ### 🔝 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offsoc&layout=compact&theme=dark)
+
+### 📊 Repository Stats
+
+![Repository Count](https://img.shields.io/github/repos/offsoc?color=blue&style=flat-square)
 
 ---
 
@@ -24,16 +38,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=offsoc&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=offsoc&theme=github_dark&utcOffset=8)
-
----
-
-🌍 **Interests:** Cybersecurity, Red Teaming, Open-source Intelligence (OSINT), Software Development  
-📚 **Currently Learning:** Rust, Advanced Bash Scripting, PowerShell for AD Management, Kubernetes  
-🤝 **Looking to Collaborate On:** Security tools, Open-source projects, Enterprise software development  
-📧 **How to Reach Me:** Contact me through encrypted channels  
-📧 **Tox:** `6E4F7D0C86D95FAF946FAFF1D59342447BD3AFF8337F5D77E08DCACF5F7F4A0BA98AAFFFE51C`
-😄 **Pronouns:** He/Him  
-⚡ **Fun Fact:** Passionate about finding innovative security solutions and simplifying complex systems!  
 
 ---
 
@@ -94,5 +98,7 @@ If you're looking for open-source alternatives to Okta with support for private 
    - Deployable on private servers, ideal for environments requiring high security and collaboration.
 
 These open-source IAM solutions offer powerful user authentication, single sign-on, multi-factor authentication, and user management features. They support private deployment and are suitable for running on your own servers or in private cloud environments. Choose the right tool based on your specific needs and technical environment.
+
+---
 
 ✨ **This repository is special because its `README.md` appears on your GitHub profile. You can click the Preview link to see your changes.** ✨
