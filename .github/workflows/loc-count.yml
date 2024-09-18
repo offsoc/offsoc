@@ -1,0 +1,22 @@
+name: Count Lines of Code
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天午夜运行
+
+jobs:
+  count_loc:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Count Lines of Code
+        run: |
+          sudo apt-get install cloc
+          cloc --exclude-dir=.git --json . > loc.json
+      - name: Upload LOC
+        uses: actions/upload-artifact@v2
+        with:
+          name: loc-report
+          path: loc.json
