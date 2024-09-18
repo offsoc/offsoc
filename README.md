@@ -4,7 +4,8 @@
 🌍 **I’m interested in:** Cybersecurity, Red Teaming, Open-source Intelligence (OSINT), and Software Development.  
 📚 **Currently learning:** Rust, Advanced Bash Scripting, PowerShell for AD Management, and Kubernetes.  
 🤝 **Looking to collaborate on:** Security tools, Open-source projects, and Enterprise software development.  
-📧 **How to reach me:** Contact me through encrypted channels.  
+📧 **How to reach me:** Contact me through encrypted channels. 
+Tox: 6E4F7D0C86D95FAF946FAFF1D59342447BD3AFF8337F5D77E08DCACF5F7F4A0BA98AAFFFE51C
 😄 **Pronouns:** He/Him  
 ⚡ **Fun fact:** Passionate about finding innovative security solutions and simplifying complex systems!
 
