@@ -5,7 +5,7 @@
 📚 **Currently Learning:** Rust, Advanced Bash Scripting, PowerShell for AD Management, Kubernetes  
 🤝 **Looking to Collaborate On:** Security tools, Open-source projects, Enterprise software development  
 📧 **How to Reach Me:** Contact me through encrypted channels  
-![Tox Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tox_project_logo.png/20px-Tox_project_logo.png) **Tox:** `6E4F7D0C86D95FAF946FAFF1D59342447BD3AFF8337F5D77E08DCACF5F7F4A0BA98AAFFFE51C`  
+![Tox Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tox-logo-freigestellt.svg/120px-Tox-logo-freigestellt.svg.png) **Tox:** `6E4F7D0C86D95FAF946FAFF1D59342447BD3AFF8337F5D77E08DCACF5F7F4A0BA98AAFFFE51C`  
 😄 **Pronouns:** He/Him  
 ⚡ **Fun Fact:** Passionate about finding innovative security solutions and simplifying complex systems!  
 
@@ -21,7 +21,7 @@
 
 ### 📊 Repository Stats
 
-![Repository Count](https://img.shields.io/github/repos/offsoc?color=blue&style=flat-square)
+![GitHub repo count](https://img.shields.io/github/search/offsoc/repo/-?label=Repositories&logo=github)
 
 ---
 
