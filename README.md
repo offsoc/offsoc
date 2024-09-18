@@ -21,7 +21,8 @@
 
 ### 📊 Repository Stats
 
-![GitHub repo count](https://img.shields.io/github/search/offsoc/repo/-?label=Repositories&logo=github)
+![Repos](https://img.shields.io/github/repos/offsoc?style=for-the-badge&logo=github)
+![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-Add%20Manually-blue?style=for-the-badge&logo=code)
 
 ---
 
