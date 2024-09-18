@@ -1,16 +1,16 @@
----
+# 👋 Hi, I’m @offsoc  
 
-👋 **Hi, I’m @offsoc**  
-🌍 **I’m interested in:** Cybersecurity, Red Teaming, Open-source Intelligence (OSINT), and Software Development.  
-📚 **Currently learning:** Rust, Advanced Bash Scripting, PowerShell for AD Management, and Kubernetes.  
-🤝 **Looking to collaborate on:** Security tools, Open-source projects, and Enterprise software development.  
-📧 **How to reach me:** Contact me through encrypted channels. 
+🌍 **Interests:** Cybersecurity, Red Teaming, Open-source Intelligence (OSINT), Software Development  
+📚 **Currently Learning:** Rust, Advanced Bash Scripting, PowerShell for AD Management, Kubernetes  
+🤝 **Looking to Collaborate On:** Security tools, Open-source projects, Enterprise software development  
+📧 **How to Reach Me:** Contact me through encrypted channels  
 😄 **Pronouns:** He/Him  
-⚡ **Fun fact:** Passionate about finding innovative security solutions and simplifying complex systems!
-📧 **Tox:** 6E4F7D0C86D95FAF946FAFF1D59342447BD3AFF8337F5D77E08DCACF5F7F4A0BA98AAFFFE51C
+⚡ **Fun Fact:** Passionate about finding innovative security solutions and simplifying complex systems!  
+📧 **Tox:** `6E4F7D0C86D95FAF946FAFF1D59342447BD3AFF8337F5D77E08DCACF5F7F4A0BA98AAFFFE51C`
+
 ---
 
-### 🚀 **Recommended Encrypted Communication Software:**
+### 🚀 Recommended Encrypted Communication Software
 
 1. **Mattermost Enterprise Edition**  
 2. **Wire-Server**  
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛡️ **Open-Source Alternatives to Okta for Private Deployment:**
+### 🛡️ Open-Source Alternatives to Okta for Private Deployment
 
 If you're looking for open-source alternatives to Okta with support for private deployment, consider the following options. These tools provide similar Identity and Access Management (IAM) features and can be deployed on your own infrastructure:
 
@@ -70,6 +70,30 @@ These open-source IAM solutions offer powerful user authentication, single sign-
 
 ---
 
-**✨ This repository is special because its `README.md` appears on your GitHub profile. You can click the Preview link to see your changes. ✨**
+### 📊 GitHub Stats
 
---- 
+![Offsoc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=offsoc&show_icons=true&theme=dark)
+
+### 🔝 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offsoc&layout=compact&theme=dark)
+
+---
+
+### 🏆 GitHub Profile Summary Cards
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=offsoc&theme=github_dark)
+
+### 📊 Language Usage
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=offsoc&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=offsoc&theme=github_dark)
+
+### 📈 Contribution Graph
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=offsoc&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=offsoc&theme=github_dark&utcOffset=8)
+
+---
+
+✨ **This repository is special because its `README.md` appears on your GitHub profile. You can click the Preview link to see your changes.** ✨
