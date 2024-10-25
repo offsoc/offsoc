@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @offsoc  
 ---
 
-🌍 **Interests:** Cybersecurity, Red Teaming, Open-source Intelligence (OSINT), Software Development，Linux System Development Engineer (Kali Linux System Development, RedHat System Development)
+🌍 **Interests:** Cybersecurity, Red Teaming, Open-source Intelligence (OSINT), Software Development，Linux System Development Engineer (Kali Linux System Development, RedHat System Development)  
 📚 **Currently Learning:** Rust, Advanced Bash Scripting, PowerShell for AD Management, Kubernetes  
 🤝 **Looking to Collaborate On:** Security tools, Open-source projects, Enterprise software development  
 📧 **How to Reach Me:** Contact me through encrypted channels  
