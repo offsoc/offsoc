@@ -33,8 +33,7 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=offsoc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Z4nzu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### 📊 Language Usage
 
