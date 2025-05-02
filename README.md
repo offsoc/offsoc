@@ -29,6 +29,8 @@
 ### 🏆 GitHub Profile Summary Cards
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=offsoc&theme=github_dark)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=offsoc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 📊 Language Usage
 
