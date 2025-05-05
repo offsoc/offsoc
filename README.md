@@ -1,4 +1,14 @@
 # 👋 Hi, I’m @offsoc  
+---
+
+🌍 **Interests:** Cybersecurity, Red Teaming, Open-source Intelligence (OSINT), Software Development，Linux System Development Engineer (Kali Linux System Development, RedHat System Development)    
+📚 **Currently Learning:** Rust, Advanced Bash Scripting, PowerShell for AD Management, Kubernetes  
+🤝 **Looking to Collaborate On:** Security tools, Open-source projects, Enterprise software development  
+📧 **How to Reach Me:** Contact me through encrypted channels  
+👩 **Tox:** `6E4F7D0C86D95FAF946FAFF1D59342447BD3AFF8337F5D77E08DCACF5F7F4A0BA98AAFFFE51C`  
+😄 **Pronouns:** He/Him  
+⚡ **Fun Fact:** Passionate about finding innovative security solutions and simplifying complex systems!  
+
 ### Platforms: 
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793d1?logo=archlinux&logoColor=white)
@@ -15,16 +25,6 @@
 ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white)
 ![NixOS](https://img.shields.io/badge/-NixOS-5277C3?logo=nixos&logoColor=white)
 ![Slackware](https://img.shields.io/badge/-Slackware-000000?logo=slackware&logoColor=white)
----
-
-🌍 **Interests:** Cybersecurity, Red Teaming, Open-source Intelligence (OSINT), Software Development，Linux System Development Engineer (Kali Linux System Development, RedHat System Development)    
-📚 **Currently Learning:** Rust, Advanced Bash Scripting, PowerShell for AD Management, Kubernetes  
-🤝 **Looking to Collaborate On:** Security tools, Open-source projects, Enterprise software development  
-📧 **How to Reach Me:** Contact me through encrypted channels  
-👩 **Tox:** `6E4F7D0C86D95FAF946FAFF1D59342447BD3AFF8337F5D77E08DCACF5F7F4A0BA98AAFFFE51C`  
-😄 **Pronouns:** He/Him  
-⚡ **Fun Fact:** Passionate about finding innovative security solutions and simplifying complex systems!  
-
 ---
 
 ### 📊 GitHub Stats
