@@ -25,6 +25,8 @@
 ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white)
 ![NixOS](https://img.shields.io/badge/-NixOS-5277C3?logo=nixos&logoColor=white)
 ![Slackware](https://img.shields.io/badge/-Slackware-000000?logo=slackware&logoColor=white)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=offsoc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 
 ### 📊 GitHub Stats
@@ -41,11 +43,6 @@
 ### 🏆 GitHub Profile Summary Cards
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=offsoc&theme=github_dark)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=offsoc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 
 ### 📊 Language Usage
 
