@@ -10,7 +10,7 @@
 ⚡ **Fun Fact:** Passionate about finding innovative security solutions and simplifying complex systems!  
 
 ### Platforms: 
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
+[![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)](https://www.kali.org/get-kali)
 ![RHEL](https://img.shields.io/badge/-RHEL-CC0000?logo=redhat&logoColor=white)
 ![Fedora](https://img.shields.io/badge/-Fedora-294172?logo=fedora&logoColor=white)
 ![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-10B981?logo=rockylinux&logoColor=white)
