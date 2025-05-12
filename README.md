@@ -19,7 +19,7 @@
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-ff4500?logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
-![Windows Server](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+[![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
 ![openSUSE](https://img.shields.io/badge/-openSUSE-73BA25?logo=opensuse&logoColor=white)
 ![Gentoo](https://img.shields.io/badge/-Gentoo-54487A?logo=gentoo&logoColor=white)
 ![Void Linux](https://img.shields.io/badge/-Void%20Linux-2C2C2C?logo=voidlinux&logoColor=white)
