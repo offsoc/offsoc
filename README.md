@@ -20,12 +20,12 @@
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-ff4500?logo=ubuntu&logoColor=white)](https://ubuntu.com/download/desktop)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)]()
 [![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
-[![openSUSE](https://img.shields.io/badge/-openSUSE-73BA25?logo=opensuse&logoColor=white)
-[![Gentoo](https://img.shields.io/badge/-Gentoo-54487A?logo=gentoo&logoColor=white)
-[![Void Linux](https://img.shields.io/badge/-Void%20Linux-2C2C2C?logo=voidlinux&logoColor=white)
-[![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white)
-[![NixOS](https://img.shields.io/badge/-NixOS-5277C3?logo=nixos&logoColor=white)
-[![Slackware](https://img.shields.io/badge/-Slackware-000000?logo=slackware&logoColor=white)
+[![openSUSE](https://img.shields.io/badge/-openSUSE-73BA25?logo=opensuse&logoColor=white)]()
+[![Gentoo](https://img.shields.io/badge/-Gentoo-54487A?logo=gentoo&logoColor=white)]()
+[![Void Linux](https://img.shields.io/badge/-Void%20Linux-2C2C2C?logo=voidlinux&logoColor=white)]()
+[![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white)]()
+[![NixOS](https://img.shields.io/badge/-NixOS-5277C3?logo=nixos&logoColor=white)]()
+[![Slackware](https://img.shields.io/badge/-Slackware-000000?logo=slackware&logoColor=white)]()
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=offsoc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
