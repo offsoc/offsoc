@@ -18,8 +18,8 @@
 [![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793d1?logo=archlinux&logoColor=white)](https://archlinux.org/download/)
 [![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)](https://www.debian.org)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-ff4500?logo=ubuntu&logoColor=white)](https://ubuntu.com/download/desktop)
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)]()
-[![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows11)
+[![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)](https://info.microsoft.com/ww-landing-evaluate-windows-server-2025.html?lcid=en-us&culture=en-us&country=us)
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=offsoc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
