@@ -25,27 +25,16 @@
 ---
 
 ### 📊 GitHub Stats
-
 ![Offsoc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=offsoc&show_icons=true&theme=dark)
-
 ### 🔝 Most Used Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offsoc&layout=compact&theme=dark)
-
-
 ---
-
 ### 🏆 GitHub Profile Summary Cards
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=offsoc&theme=github_dark)
-
 ### 📊 Language Usage
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=offsoc&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=offsoc&theme=github_dark)
-
 ### 📈 Contribution Graph
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=offsoc&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=offsoc&theme=github_dark&utcOffset=8)
 
