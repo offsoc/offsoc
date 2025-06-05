@@ -20,23 +20,53 @@
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-ff4500?logo=ubuntu&logoColor=white)](https://ubuntu.com/download/desktop)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows11)
 [![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)](https://info.microsoft.com/ww-landing-evaluate-windows-server-2025.html?lcid=en-us&culture=en-us&country=us)
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=offsoc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 
-### 📊 GitHub Stats
-![Offsoc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=offsoc&show_icons=true&theme=dark)
-### 🔝 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offsoc&layout=compact&theme=dark)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=offsoc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ---
-### 🏆 GitHub Profile Summary Cards
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=offsoc&theme=github_dark)
-### 📊 Language Usage
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=offsoc&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=offsoc&theme=github_dark)
-### 📈 Contribution Graph
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=offsoc&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=offsoc&theme=github_dark&utcOffset=8)
+
+### 📊 GitHub Stats & Languages
+
+<table>
+  <tr>
+    <td width="35%">
+      <img src="https://github-readme-stats.vercel.app/api?username=offsoc&show_icons=true&theme=dark" alt="Offsoc's GitHub Stats" />
+    </td>
+    <td width="35%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offsoc&layout=compact&theme=dark" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 GitHub Profile Summary & Contributions
+
+<table>
+  <tr>
+    <td width="35%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=offsoc&theme=github_dark" alt="GitHub Profile Details" />
+    </td>
+    <td width="35%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=offsoc&theme=github_dark" alt="Contribution Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td width="35%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=offsoc&theme=github_dark" alt="Repos Per Language" />
+    </td>
+    <td width="35%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=offsoc&theme=github_dark" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=offsoc&theme=github_dark&utcOffset=8" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
 
 ---
 
