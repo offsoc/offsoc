@@ -1,63 +1,3 @@
-# The OffSec Legends
-
-The OffSec Legends, inspired by OffSec's world-renowned certifications, are powerful guides who lead you through **The Gauntlet**.  
-They assign missions, share wisdom, and call on you to rise beside them to secure victory.
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-### [OSCP](https://www.offsec.com/courses/pen-200/)  
-![Penetration Testing with Kali Linux](https://cdn.sanity.io/images/t7y0tkf4/production/e80af23eff62e1d2453208cc450b62c275f933e1-401x318.png)  
-
-</td>
-<td align="center" width="20%">
-
-### [OSEP](https://www.offsec.com/courses/pen-300/)  
-![Evasion Techniques and Breaching Defenses](https://cdn.sanity.io/images/t7y0tkf4/production/11d1c860884c89c7a2fa3419067ce7f73789afbb-401x318.png)  
-
-</td>
-<td align="center" width="20%">
-
-### [OSWA](https://www.offsec.com/courses/web-200/)  
-![Web Attacks with Kali Linux](https://cdn.sanity.io/images/t7y0tkf4/production/ebca4e3638ec3c2312509abbca76adb2e2149504-401x318.png)  
-</td>
-<td align="center" width="20%">
-
-### [OSWE](https://www.offsec.com/courses/web-300/)  
-![Advanced Web Attacks and Exploitation](https://cdn.sanity.io/images/t7y0tkf4/production/19e514c81ab87559af65bf7a533fd4107fe49e8f-401x318.png)  
-</td>
-<td align="center" width="20%">
-
-### [OSED](https://www.offsec.com/courses/exp-301/)  
-![Windows User Mode Exploit Development](https://cdn.sanity.io/images/t7y0tkf4/production/c3e565ad51d46bb063f2c994e7264e049b94aa5e-401x318.png)  
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-
-### [OSEE](https://www.offsec.com/courses/exp-401/)  
-![Advanced Windows Exploitation](https://cdn.sanity.io/images/t7y0tkf4/production/9d43a9917c7ebcb6ff891ce73decb42bf0a00393-401x318.png)  
-</td>
-<td align="center" width="20%">
-
-### [OSDA](https://www.offsec.com/courses/soc-200/)  
-![Security Operations and Defensive Analysis](https://cdn.sanity.io/images/t7y0tkf4/production/632b467abe24f756a82ec9bc37129cb180dbfb54-401x318.png)  
-</td>
-<td align="center" width="20%">
-
-### [OSTH](https://www.offsec.com/courses/th-200/)  
-![Foundational Threat Hunting](https://cdn.sanity.io/images/t7y0tkf4/production/d45c2f1874df0932980598d48a3c56502e10be7d-401x318.png)  
-</td>
-<td align="center" width="20%">
-
-### [OSIR](https://www.offsec.com/courses/ir-200/)  
-![Foundational Incident Response](https://cdn.sanity.io/images/t7y0tkf4/production/458311232caa250c1c79272c22dd3ccfb7a17314-401x318.png)  
-</td>
-</tr>
-</table>
-
 # 👋 Hi, I’m @offsoc  
 
 🌍 **Interests:** Cybersecurity, Red Teaming, Open-source Intelligence (OSINT), Software Development，Linux System Development Engineer (Kali Linux System Development, RedHat System Development)    
@@ -123,6 +63,67 @@ They assign missions, share wisdom, and call on you to rise beside them to secur
     </td>
   </tr>
 </table>
+
+### The OffSec Legends
+
+The OffSec Legends, inspired by OffSec's world-renowned certifications, are powerful guides who lead you through **The Gauntlet**.  
+They assign missions, share wisdom, and call on you to rise beside them to secure victory.
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### [OSCP](https://www.offsec.com/courses/pen-200/)  
+![Penetration Testing with Kali Linux](https://cdn.sanity.io/images/t7y0tkf4/production/e80af23eff62e1d2453208cc450b62c275f933e1-401x318.png)  
+
+</td>
+<td align="center" width="20%">
+
+### [OSEP](https://www.offsec.com/courses/pen-300/)  
+![Evasion Techniques and Breaching Defenses](https://cdn.sanity.io/images/t7y0tkf4/production/11d1c860884c89c7a2fa3419067ce7f73789afbb-401x318.png)  
+
+</td>
+<td align="center" width="20%">
+
+### [OSWA](https://www.offsec.com/courses/web-200/)  
+![Web Attacks with Kali Linux](https://cdn.sanity.io/images/t7y0tkf4/production/ebca4e3638ec3c2312509abbca76adb2e2149504-401x318.png)  
+</td>
+<td align="center" width="20%">
+
+### [OSWE](https://www.offsec.com/courses/web-300/)  
+![Advanced Web Attacks and Exploitation](https://cdn.sanity.io/images/t7y0tkf4/production/19e514c81ab87559af65bf7a533fd4107fe49e8f-401x318.png)  
+</td>
+<td align="center" width="20%">
+
+### [OSED](https://www.offsec.com/courses/exp-301/)  
+![Windows User Mode Exploit Development](https://cdn.sanity.io/images/t7y0tkf4/production/c3e565ad51d46bb063f2c994e7264e049b94aa5e-401x318.png)  
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+
+### [OSEE](https://www.offsec.com/courses/exp-401/)  
+![Advanced Windows Exploitation](https://cdn.sanity.io/images/t7y0tkf4/production/9d43a9917c7ebcb6ff891ce73decb42bf0a00393-401x318.png)  
+</td>
+<td align="center" width="20%">
+
+### [OSDA](https://www.offsec.com/courses/soc-200/)  
+![Security Operations and Defensive Analysis](https://cdn.sanity.io/images/t7y0tkf4/production/632b467abe24f756a82ec9bc37129cb180dbfb54-401x318.png)  
+</td>
+<td align="center" width="20%">
+
+### [OSTH](https://www.offsec.com/courses/th-200/)  
+![Foundational Threat Hunting](https://cdn.sanity.io/images/t7y0tkf4/production/d45c2f1874df0932980598d48a3c56502e10be7d-401x318.png)  
+</td>
+<td align="center" width="20%">
+
+### [OSIR](https://www.offsec.com/courses/ir-200/)  
+![Foundational Incident Response](https://cdn.sanity.io/images/t7y0tkf4/production/458311232caa250c1c79272c22dd3ccfb7a17314-401x318.png)  
+</td>
+</tr>
+</table>
+
 
 ### 🚀 Recommended Encrypted Communication Software
 
