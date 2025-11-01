@@ -1,92 +1,155 @@
-# The OffSec Legends
+# 🛡️ The OffSec Legends
 
 The OffSec Legends, inspired by OffSec's world-renowned certifications, are powerful guides who lead you through **The Gauntlet**.  
 They assign missions, share wisdom, and call on you to rise beside them to secure victory.
 
 ---
 
-<table>
-<tr>
-<td align="center" width="25%">
+<style>
+.grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+  margin-top: 20px;
+}
+.grid-item {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  aspect-ratio: 1/1;
+  cursor: pointer;
+}
+.grid-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+.grid-item:hover img {
+  transform: scale(1.05);
+}
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.75);
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  padding: 10px;
+  font-size: 14px;
+}
+.grid-item:hover .overlay {
+  opacity: 1;
+}
+.overlay a {
+  color: #00bfff;
+  font-weight: bold;
+  text-decoration: none;
+}
+.overlay a:hover {
+  text-decoration: underline;
+}
+</style>
 
-### [Kali](https://www.offsec.com/courses/pen-200/)  
-![Penetration Testing with Kali Linux](https://cdn.sanity.io/images/t7y0tkf4/production/e80af23eff62e1d2453208cc450b62c275f933e1-401x318.png)  
-**Penetration Testing with Kali Linux**  
-*The stealthiest can slip past the fiercest defenses, leaving no sign behind.*
+<div class="grid">
 
-</td>
-<td align="center" width="25%">
+<div class="grid-item">
+  <img src="https://cdn.sanity.io/images/t7y0tkf4/production/e80af23eff62e1d2453208cc450b62c275f933e1-401x318.png" alt="Kali">
+  <div class="overlay">
+    <a href="https://www.offsec.com/courses/pen-200/">Kali</a><br>
+    <b>Penetration Testing with Kali Linux</b><br>
+    *The stealthiest can slip past the fiercest defenses, leaving no sign behind.*
+  </div>
+</div>
 
-### [ShadowGlyph](https://www.offsec.com/courses/pen-300/)  
-![Evasion Techniques and Breaching Defenses](https://cdn.sanity.io/images/t7y0tkf4/production/11d1c860884c89c7a2fa3419067ce7f73789afbb-401x318.png)  
-**Evasion Techniques and Breaching Defenses**  
-*The most cunning twist security, slipping through barriers and leaving chaos behind.*
+<div class="grid-item">
+  <img src="https://cdn.sanity.io/images/t7y0tkf4/production/11d1c860884c89c7a2fa3419067ce7f73789afbb-401x318.png" alt="ShadowGlyph">
+  <div class="overlay">
+    <a href="https://www.offsec.com/courses/pen-300/">ShadowGlyph</a><br>
+    <b>Evasion Techniques and Breaching Defenses</b><br>
+    *The most cunning twist security, slipping through barriers and leaving chaos behind.*
+  </div>
+</div>
 
-</td>
-<td align="center" width="25%">
+<div class="grid-item">
+  <img src="https://cdn.sanity.io/images/t7y0tkf4/production/ebca4e3638ec3c2312509abbca76adb2e2149504-401x318.png" alt="NightHorn">
+  <div class="overlay">
+    <a href="https://www.offsec.com/courses/web-200/">NightHorn</a><br>
+    <b>Web Attacks with Kali Linux</b><br>
+    *The most perceptive can slip through any defense, unnoticed and untouchable.*
+  </div>
+</div>
 
-### [NightHorn](https://www.offsec.com/courses/web-200/)  
-![Web Attacks with Kali Linux](https://cdn.sanity.io/images/t7y0tkf4/production/ebca4e3638ec3c2312509abbca76adb2e2149504-401x318.png)  
-**Web Attacks with Kali Linux**  
-*The most perceptive can slip through any defense, unnoticed and untouchable.*
+<div class="grid-item">
+  <img src="https://cdn.sanity.io/images/t7y0tkf4/production/19e514c81ab87559af65bf7a533fd4107fe49e8f-401x318.png" alt="Widow">
+  <div class="overlay">
+    <a href="https://www.offsec.com/courses/web-300/">Widow</a><br>
+    <b>Advanced Web Attacks and Exploitation</b><br>
+    *The cunning unravel webs, slipping through barriers with lethal grace.*
+  </div>
+</div>
 
-</td>
-<td align="center" width="25%">
+<div class="grid-item">
+  <img src="https://cdn.sanity.io/images/t7y0tkf4/production/c3e565ad51d46bb063f2c994e7264e049b94aa5e-401x318.png" alt="Cipherflare">
+  <div class="overlay">
+    <a href="https://www.offsec.com/courses/exp-301/">Cipherflare</a><br>
+    <b>Windows User Mode Exploit Development</b><br>
+    *The slyest can bypass any barrier in this realm or others.*
+  </div>
+</div>
 
-### [Widow](https://www.offsec.com/courses/web-300/)  
-![Advanced Web Attacks and Exploitation](https://cdn.sanity.io/images/t7y0tkf4/production/19e514c81ab87559af65bf7a533fd4107fe49e8f-401x318.png)  
-**Advanced Web Attacks and Exploitation**  
-*The cunning unravel webs, slipping through barriers with lethal grace.*
+<div class="grid-item">
+  <img src="https://cdn.sanity.io/images/t7y0tkf4/production/9d43a9917c7ebcb6ff891ce73decb42bf0a00393-401x318.png" alt="Nullgrim">
+  <div class="overlay">
+    <a href="https://www.offsec.com/courses/exp-401/">Nullgrim</a><br>
+    <b>Advanced Windows Exploitation</b><br>
+    *The most relentless can sever any connection, striking without warning and leaving no trace behind.*
+  </div>
+</div>
 
-</td>
-</tr>
+<div class="grid-item">
+  <img src="https://cdn.sanity.io/images/t7y0tkf4/production/632b467abe24f756a82ec9bc37129cb180dbfb54-401x318.png" alt="KnightWarden">
+  <div class="overlay">
+    <a href="https://www.offsec.com/courses/soc-200/">KnightWarden</a><br>
+    <b>Security Operations and Defensive Analysis</b><br>
+    *The most steadfast defend any stronghold with unwavering resolve.*
+  </div>
+</div>
 
-<tr>
-<td align="center" width="25%">
+<div class="grid-item">
+  <img src="https://cdn.sanity.io/images/t7y0tkf4/production/d45c2f1874df0932980598d48a3c56502e10be7d-401x318.png" alt="Hornet Tracer">
+  <div class="overlay">
+    <a href="https://www.offsec.com/courses/th-200/">Hornet Tracer</a><br>
+    <b>Foundational Threat Hunting</b><br>
+    *The fastest can pierce through any defense, striking with lethal speed and leaving no trace behind.*
+  </div>
+</div>
 
-### [Cipherflare](https://www.offsec.com/courses/exp-301/)  
-![Windows User Mode Exploit Development](https://cdn.sanity.io/images/t7y0tkf4/production/c3e565ad51d46bb063f2c994e7264e049b94aa5e-401x318.png)  
-**Windows User Mode Exploit Development**  
-*The slyest can bypass any barrier in this realm or others.*
+<div class="grid-item">
+  <img src="https://cdn.sanity.io/images/t7y0tkf4/production/458311232caa250c1c79272c22dd3ccfb7a17314-401x318.png" alt="AnchorHelm">
+  <div class="overlay">
+    <a href="https://www.offsec.com/courses/ir-200/">AnchorHelm</a><br>
+    <b>Foundational Incident Response</b><br>
+    *The most commanding control the storm, eliminating threats with unmatched force.*
+  </div>
+</div>
 
-</td>
-<td align="center" width="25%">
+<div class="grid-item">
+  <img src="https://cdn.sanity.io/images/t7y0tkf4/production/e80af23eff62e1d2453208cc450b62c275f933e1-401x318.png" alt="Bonus Legend">
+  <div class="overlay">
+    <a href="#">Bonus Legend</a><br>
+    <b>Special Operations</b><br>
+    *A hidden guardian watching from the shadows.*
+  </div>
+</div>
 
-### [Nullgrim](https://www.offsec.com/courses/exp-401/)  
-![Advanced Windows Exploitation](https://cdn.sanity.io/images/t7y0tkf4/production/9d43a9917c7ebcb6ff891ce73decb42bf0a00393-401x318.png)  
-**Advanced Windows Exploitation**  
-*The most relentless can sever any connection, striking without warning and leaving no trace behind.*
-
-</td>
-<td align="center" width="25%">
-
-### [KnightWarden](https://www.offsec.com/courses/soc-200/)  
-![Security Operations and Defensive Analysis](https://cdn.sanity.io/images/t7y0tkf4/production/632b467abe24f756a82ec9bc37129cb180dbfb54-401x318.png)  
-**Security Operations and Defensive Analysis**  
-*The most steadfast defend any stronghold with unwavering resolve.*
-
-</td>
-<td align="center" width="25%">
-
-### [Hornet Tracer](https://www.offsec.com/courses/th-200/)  
-![Foundational Threat Hunting](https://cdn.sanity.io/images/t7y0tkf4/production/d45c2f1874df0932980598d48a3c56502e10be7d-401x318.png)  
-**Foundational Threat Hunting**  
-*The fastest can pierce through any defense, striking with lethal speed and leaving no trace behind.*
-
-</td>
-</tr>
-
-<tr>
-<td align="center" colspan="4">
-
-### [AnchorHelm](https://www.offsec.com/courses/ir-200/)  
-![Foundational Incident Response](https://cdn.sanity.io/images/t7y0tkf4/production/458311232caa250c1c79272c22dd3ccfb7a17314-401x318.png)  
-**Foundational Incident Response**  
-*The most commanding control the storm, eliminating threats with unmatched force.*
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -94,7 +157,6 @@ They assign missions, share wisdom, and call on you to rise beside them to secur
 
 Every great quest has fine print.  
 Check out the rules before you storm **The Gauntlet**.
-
 
 # 👋 Hi, I’m @offsoc  
 ---
