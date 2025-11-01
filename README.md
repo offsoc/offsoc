@@ -1,79 +1,64 @@
-# 🛡️ The OffSec Legends
+# The OffSec Legends
 
 The OffSec Legends, inspired by OffSec's world-renowned certifications, are powerful guides who lead you through **The Gauntlet**.  
 They assign missions, share wisdom, and call on you to rise beside them to secure victory.
 
----
+<table>
+<tr>
+<td align="center" width="20%">
 
-<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-top: 20px;">
+### [OSCP](https://www.offsec.com/courses/pen-200/)  
+![Penetration Testing with Kali Linux](https://cdn.sanity.io/images/t7y0tkf4/production/e80af23eff62e1d2453208cc450b62c275f933e1-401x318.png)  
 
-<!-- 1 -->
-<div style="position: relative; overflow: hidden; border-radius: 10px; aspect-ratio: 1/1; cursor: pointer;">
-  <img src="https://cdn.sanity.io/images/t7y0tkf4/production/e80af23eff62e1d2453208cc450b62c275f933e1-401x318.png" style="width:100%; height:100%; object-fit:cover; border-radius:10px; transition:transform 0.3s ease;">
-  <div style="position:absolute; inset:0; background:rgba(0,0,0,0.75); color:#fff; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; opacity:0; transition:opacity 0.3s ease; padding:10px;"
-       onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0'">
-    <a href="https://www.offsec.com/courses/pen-200/" style="color:#00bfff; font-weight:bold; text-decoration:none;">Kali</a><br>
-    <b>Penetration Testing with Kali Linux</b><br>
-    <em>The stealthiest can slip past the fiercest defenses, leaving no sign behind.</em>
-  </div>
-</div>
+</td>
+<td align="center" width="20%">
 
-<!-- 2 -->
-<div style="position: relative; overflow: hidden; border-radius: 10px; aspect-ratio: 1/1; cursor: pointer;">
-  <img src="https://cdn.sanity.io/images/t7y0tkf4/production/11d1c860884c89c7a2fa3419067ce7f73789afbb-401x318.png" style="width:100%; height:100%; object-fit:cover; border-radius:10px; transition:transform 0.3s ease;">
-  <div style="position:absolute; inset:0; background:rgba(0,0,0,0.75); color:#fff; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; opacity:0; transition:opacity 0.3s ease; padding:10px;"
-       onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0'">
-    <a href="https://www.offsec.com/courses/pen-300/" style="color:#00bfff; font-weight:bold; text-decoration:none;">ShadowGlyph</a><br>
-    <b>Evasion Techniques and Breaching Defenses</b><br>
-    <em>The most cunning twist security, slipping through barriers and leaving chaos behind.</em>
-  </div>
-</div>
+### [OSEP](https://www.offsec.com/courses/pen-300/)  
+![Evasion Techniques and Breaching Defenses](https://cdn.sanity.io/images/t7y0tkf4/production/11d1c860884c89c7a2fa3419067ce7f73789afbb-401x318.png)  
 
-<!-- 3 -->
-<div style="position: relative; overflow: hidden; border-radius: 10px; aspect-ratio: 1/1; cursor: pointer;">
-  <img src="https://cdn.sanity.io/images/t7y0tkf4/production/ebca4e3638ec3c2312509abbca76adb2e2149504-401x318.png" style="width:100%; height:100%; object-fit:cover; border-radius:10px; transition:transform 0.3s ease;">
-  <div style="position:absolute; inset:0; background:rgba(0,0,0,0.75); color:#fff; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; opacity:0; transition:opacity 0.3s ease; padding:10px;"
-       onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0'">
-    <a href="https://www.offsec.com/courses/web-200/" style="color:#00bfff; font-weight:bold; text-decoration:none;">NightHorn</a><br>
-    <b>Web Attacks with Kali Linux</b><br>
-    <em>The most perceptive can slip through any defense, unnoticed and untouchable.</em>
-  </div>
-</div>
+</td>
+<td align="center" width="20%">
 
-<!-- 4 -->
-<div style="position: relative; overflow: hidden; border-radius: 10px; aspect-ratio: 1/1; cursor: pointer;">
-  <img src="https://cdn.sanity.io/images/t7y0tkf4/production/19e514c81ab87559af65bf7a533fd4107fe49e8f-401x318.png" style="width:100%; height:100%; object-fit:cover; border-radius:10px; transition:transform 0.3s ease;">
-  <div style="position:absolute; inset:0; background:rgba(0,0,0,0.75); color:#fff; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; opacity:0; transition:opacity 0.3s ease; padding:10px;"
-       onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0'">
-    <a href="https://www.offsec.com/courses/web-300/" style="color:#00bfff; font-weight:bold; text-decoration:none;">Widow</a><br>
-    <b>Advanced Web Attacks and Exploitation</b><br>
-    <em>The cunning unravel webs, slipping through barriers with lethal grace.</em>
-  </div>
-</div>
+### [OSWA](https://www.offsec.com/courses/web-200/)  
+![Web Attacks with Kali Linux](https://cdn.sanity.io/images/t7y0tkf4/production/ebca4e3638ec3c2312509abbca76adb2e2149504-401x318.png)  
+</td>
+<td align="center" width="20%">
 
-<!-- 5 -->
-<div style="position: relative; overflow: hidden; border-radius: 10px; aspect-ratio: 1/1; cursor: pointer;">
-  <img src="https://cdn.sanity.io/images/t7y0tkf4/production/c3e565ad51d46bb063f2c994e7264e049b94aa5e-401x318.png" style="width:100%; height:100%; object-fit:cover; border-radius:10px; transition:transform 0.3s ease;">
-  <div style="position:absolute; inset:0; background:rgba(0,0,0,0.75); color:#fff; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; opacity:0; transition:opacity 0.3s ease; padding:10px;"
-       onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0'">
-    <a href="https://www.offsec.com/courses/exp-301/" style="color:#00bfff; font-weight:bold; text-decoration:none;">Cipherflare</a><br>
-    <b>Windows User Mode Exploit Development</b><br>
-    <em>The slyest can bypass any barrier in this realm or others.</em>
-  </div>
-</div>
+### [OSWE](https://www.offsec.com/courses/web-300/)  
+![Advanced Web Attacks and Exploitation](https://cdn.sanity.io/images/t7y0tkf4/production/19e514c81ab87559af65bf7a533fd4107fe49e8f-401x318.png)  
+</td>
+<td align="center" width="20%">
 
-<!-- 6–10 同样结构（保持一行5个） -->
-</div>
+### [OSED](https://www.offsec.com/courses/exp-301/)  
+![Windows User Mode Exploit Development](https://cdn.sanity.io/images/t7y0tkf4/production/c3e565ad51d46bb063f2c994e7264e049b94aa5e-401x318.png)  
+</td>
+</tr>
 
----
+<tr>
+<td align="center" width="20%">
 
-## 📜 The Gauntlet: Terms & Conditions
+### [OSEE](https://www.offsec.com/courses/exp-401/)  
+![Advanced Windows Exploitation](https://cdn.sanity.io/images/t7y0tkf4/production/9d43a9917c7ebcb6ff891ce73decb42bf0a00393-401x318.png)  
+</td>
+<td align="center" width="20%">
 
-Every great quest has fine print.  
-Check out the rules before you storm **The Gauntlet**.
+### [OSDA](https://www.offsec.com/courses/soc-200/)  
+![Security Operations and Defensive Analysis](https://cdn.sanity.io/images/t7y0tkf4/production/632b467abe24f756a82ec9bc37129cb180dbfb54-401x318.png)  
+</td>
+<td align="center" width="20%">
+
+### [OSTH](https://www.offsec.com/courses/th-200/)  
+![Foundational Threat Hunting](https://cdn.sanity.io/images/t7y0tkf4/production/d45c2f1874df0932980598d48a3c56502e10be7d-401x318.png)  
+</td>
+<td align="center" width="20%">
+
+### [OSIR](https://www.offsec.com/courses/ir-200/)  
+![Foundational Incident Response](https://cdn.sanity.io/images/t7y0tkf4/production/458311232caa250c1c79272c22dd3ccfb7a17314-401x318.png)  
+</td>
+</tr>
+</table>
 
 # 👋 Hi, I’m @offsoc  
----
 
 🌍 **Interests:** Cybersecurity, Red Teaming, Open-source Intelligence (OSINT), Software Development，Linux System Development Engineer (Kali Linux System Development, RedHat System Development)    
 📚 **Currently Learning:** Rust, Advanced Bash Scripting, PowerShell for AD Management, Kubernetes  
@@ -94,12 +79,11 @@ Check out the rules before you storm **The Gauntlet**.
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-ff4500?logo=ubuntu&logoColor=white)](https://ubuntu.com/download/desktop)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows11)
 [![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)](https://info.microsoft.com/ww-landing-evaluate-windows-server-2025.html?lcid=en-us&culture=en-us&country=us)
----
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=offsoc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+
 
 ### 📊 GitHub Stats & Languages
 
@@ -113,8 +97,6 @@ Check out the rules before you storm **The Gauntlet**.
     </td>
   </tr>
 </table>
-
----
 
 ### 🏆 GitHub Profile Summary & Contributions
 
@@ -142,8 +124,6 @@ Check out the rules before you storm **The Gauntlet**.
   </tr>
 </table>
 
----
-
 ### 🚀 Recommended Encrypted Communication Software
 
 1. **Mattermost Enterprise Edition**  
@@ -154,7 +134,6 @@ Check out the rules before you storm **The Gauntlet**.
 6. **Tox**  
 7. **Jami**  
 
----
 
 ### 🛡️ Open-Source Alternatives to Okta for Private Deployment
 
@@ -202,6 +181,5 @@ If you're looking for open-source alternatives to Okta with support for private 
 
 These open-source IAM solutions offer powerful user authentication, single sign-on, multi-factor authentication, and user management features. They support private deployment and are suitable for running on your own servers or in private cloud environments. Choose the right tool based on your specific needs and technical environment.
 
----
 
 ✨ **This repository is special because its `README.md` appears on your GitHub profile. You can click the Preview link to see your changes.** ✨
