@@ -17,8 +17,23 @@
 [![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793d1?logo=archlinux&logoColor=white)](https://archlinux.org/download/)
 [![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)](https://www.debian.org)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-ff4500?logo=ubuntu&logoColor=white)](https://ubuntu.com/download/desktop)
+[![FreeBSD](https://img.shields.io/badge/-FreeBSD-AB2B28?logo=freebsd&logoColor=white)](https://www.freebsd.org/where/)
+[![OpenBSD](https://img.shields.io/badge/-OpenBSD-F2CA30?logo=openbsd&logoColor=black)](https://www.openbsd.org/faq/faq4.html)
+[![NetBSD](https://img.shields.io/badge/-NetBSD-FF6600?logo=netbsd&logoColor=white)](https://www.netbsd.org/)
+[![DragonFly BSD](https://img.shields.io/badge/-DragonFly%20BSD-cc0000?logo=dragonflybsd&logoColor=white)](https://www.dragonflybsd.org/)
+[![GhostBSD](https://img.shields.io/badge/-GhostBSD-6F5499?logo=freebsd&logoColor=white)](https://www.ghostbsd.org/)
+[![TrueNAS](https://img.shields.io/badge/-TrueNAS-0095D5?logo=truenas&logoColor=white)](https://www.truenas.com/)
+[![MidnightBSD](https://img.shields.io/badge/-MidnightBSD-3B0A45?logo=freebsd&logoColor=white)](https://www.midnightbsd.org/)
+[![OpenIndiana](https://img.shields.io/badge/-OpenIndiana-005A9C?logo=openindiana&logoColor=white)](https://www.openindiana.org/)
+[![Illumos](https://img.shields.io/badge/-Illumos-2E4A62?logo=illumos&logoColor=white)](https://illumos.org/)
+[![SmartOS](https://img.shields.io/badge/-SmartOS-0092CF?logo=joyent&logoColor=white)](https://www.smartos.org/)
+[![AIX](https://img.shields.io/badge/-IBM%20AIX-052FAD?logo=ibm&logoColor=white)](https://www.ibm.com/it-infrastructure/power/os/aix)
+[![HP-UX](https://img.shields.io/badge/-HP--UX-0096D6?logo=hewlettpackard&logoColor=white)](https://www.hpe.com/us/en/servers/hp-ux.html)
+[![Solaris](https://img.shields.io/badge/-Oracle%20Solaris-F80000?logo=oracle&logoColor=white)](https://www.oracle.com/solaris/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows11)
 [![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)](https://info.microsoft.com/ww-landing-evaluate-windows-server-2025.html?lcid=en-us&culture=en-us&country=us)
+
+
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=offsoc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
