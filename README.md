@@ -9,128 +9,6 @@
   
   [![OffSec Official Website](https://img.shields.io/badge/OffSec-Official%20Website-ED1C24?style=for-the-badge&logo=firefox)](https://www.offsec.com)
   [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/offsoc)
-  
-## 📚 Complete OffSec Course Catalog
-
-Here is the complete catalog of OffSec courses organized by specialization tracks:
-
-#### 🔐 Penetration Testing
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-### [PEN-200: Penetration Testing with Kali Linux ](https://www.offsec.com/courses/pen-200/)
-<img src="OffSec/outline/PEN-200-color-outline.svg" width="120" height="120" alt="PEN-200 Outline">
-<p><em>OSCP+</em></p>
-
-</td>
-<td align="center" width="20%">
-
-### [PEN-300: Evasion Techniques and Breaching Defenses](https://www.offsec.com/courses/pen-300/)
-<img src="OffSec/outline/PEN-300-color-outline.svg" width="120" height="120" alt="PEN-300 Outline">
-<p><em>OSEP</em></p>
-
-</td>
-</tr>
-</table>
-
-#### 💻 Exploit Development
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-### [EXP-301: Windows User Mode Exploit Development](https://www.offsec.com/courses/exp-301/)
-<img src="OffSec/outline/EXP-301-color-outline.svg" width="120" height="120" alt="EXP-301 Outline">
-<p><em>OSED</em></p>
-
-</td>
-<td align="center" width="20%">
-
-### [EXP-401: Advanced Windows Exploitation](https://www.offsec.com/courses/exp-401/)
-<img src="OffSec/outline/EXP-401-color-outline.svg" width="120" height="120" alt="EXP-401 Outline">
-<p><em>OSEE</em></p>
-
-</td>
-</tr>
-</table>
-
-#### 🌐 Web Application Security
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-### [WEB-200: Web Attacks with Kali Linux](https://www.offsec.com/courses/web-200/)
-<img src="OffSec/outline/WEB-200-color-outline.svg" width="120" height="120" alt="WEB-200 Outline">
-<p><em>OSWA</em></p>
-
-</td>
-<td align="center" width="20%">
-
-### [WEB-300: Advanced Web Attacks and Exploitation](https://www.offsec.com/courses/web-300/)
-<img src="OffSec/outline/WEB-300-color-outline.svg" width="120" height="120" alt="WEB-300 Outline">
-<p><em>OSWE</em></p>
-
-</td>
-</tr>
-</table>
-
-#### 🛡️ Defensive Security
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-### [SOC-200: Security Operations and Defensive Analysis](https://www.offsec.com/courses/soc-200/)
-<img src="OffSec/outline/SOC-200-color-outline.svg" width="120" height="120" alt="SOC-200 Outline">
-<p><em>OSDA</em></p>
-
-</td>
-<td align="center" width="20%">
-
-### [IR-200: Foundational Incident Response](https://www.offsec.com/courses/ir-200/)
-<img src="OffSec/outline/IR-200-color-outline.svg" width="120" height="120" alt="IR-200 Outline">
-<p><em>OSIR</em></p>
-
-</td>
-<td align="center" width="20%">
-
-### [TH-200: Foundational Threat Hunting](https://www.offsec.com/courses/th-200/)
-<img src="OffSec/outline/TH-200-color-outline.svg" width="120" height="120" alt="TH-200 Outline">
-<p><em>OSTH</em></p>
-
-</td>
-</tr>
-</table>
-
-#### 🎓 OffSec CyberCore™
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-### [SEC-100: Cybersecurity Essentials](https://www.offsec.com/courses/sec-100/)
-<img src="OffSec/outline/SEC-100-color-outline.svg" width="120" height="120" alt="SEC-100 Outline">
-<p><em>OSCC-SEC</em></p>
-
-</td>
-<td align="center" width="20%">
-
-### [SJD-100: Secure Java Development Essentials](https://www.offsec.com/courses/sjd-100/)
-<img src="OffSec/outline/SJD-100-color-outline.svg" width="120" height="120" alt="SJD-100 Outline">
-<p><em>OSCC-SJD</em></p>
-
-</td>
-</tr>
-</table>
-
----
-
-</div>
-
----
 
 ## 🎯 About OffSec
 
@@ -297,6 +175,127 @@ Here are the course outlines available in this repository:
 </td>
 </tr>
 </table>
+
+---
+## 📚 Complete OffSec Course Catalog
+
+Here is the complete catalog of OffSec courses organized by specialization tracks:
+
+#### 🔐 Penetration Testing
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### [PEN-200: Penetration Testing with Kali Linux ](https://www.offsec.com/courses/pen-200/)
+<img src="OffSec/outline/PEN-200-color-outline.svg" width="120" height="120" alt="PEN-200 Outline">
+<p><em>OSCP+</em></p>
+
+</td>
+<td align="center" width="20%">
+
+### [PEN-300: Evasion Techniques and Breaching Defenses](https://www.offsec.com/courses/pen-300/)
+<img src="OffSec/outline/PEN-300-color-outline.svg" width="120" height="120" alt="PEN-300 Outline">
+<p><em>OSEP</em></p>
+
+</td>
+</tr>
+</table>
+
+#### 💻 Exploit Development
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### [EXP-301: Windows User Mode Exploit Development](https://www.offsec.com/courses/exp-301/)
+<img src="OffSec/outline/EXP-301-color-outline.svg" width="120" height="120" alt="EXP-301 Outline">
+<p><em>OSED</em></p>
+
+</td>
+<td align="center" width="20%">
+
+### [EXP-401: Advanced Windows Exploitation](https://www.offsec.com/courses/exp-401/)
+<img src="OffSec/outline/EXP-401-color-outline.svg" width="120" height="120" alt="EXP-401 Outline">
+<p><em>OSEE</em></p>
+
+</td>
+</tr>
+</table>
+
+#### 🌐 Web Application Security
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### [WEB-200: Web Attacks with Kali Linux](https://www.offsec.com/courses/web-200/)
+<img src="OffSec/outline/WEB-200-color-outline.svg" width="120" height="120" alt="WEB-200 Outline">
+<p><em>OSWA</em></p>
+
+</td>
+<td align="center" width="20%">
+
+### [WEB-300: Advanced Web Attacks and Exploitation](https://www.offsec.com/courses/web-300/)
+<img src="OffSec/outline/WEB-300-color-outline.svg" width="120" height="120" alt="WEB-300 Outline">
+<p><em>OSWE</em></p>
+
+</td>
+</tr>
+</table>
+
+#### 🛡️ Defensive Security
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### [SOC-200: Security Operations and Defensive Analysis](https://www.offsec.com/courses/soc-200/)
+<img src="OffSec/outline/SOC-200-color-outline.svg" width="120" height="120" alt="SOC-200 Outline">
+<p><em>OSDA</em></p>
+
+</td>
+<td align="center" width="20%">
+
+### [IR-200: Foundational Incident Response](https://www.offsec.com/courses/ir-200/)
+<img src="OffSec/outline/IR-200-color-outline.svg" width="120" height="120" alt="IR-200 Outline">
+<p><em>OSIR</em></p>
+
+</td>
+<td align="center" width="20%">
+
+### [TH-200: Foundational Threat Hunting](https://www.offsec.com/courses/th-200/)
+<img src="OffSec/outline/TH-200-color-outline.svg" width="120" height="120" alt="TH-200 Outline">
+<p><em>OSTH</em></p>
+
+</td>
+</tr>
+</table>
+
+#### 🎓 OffSec CyberCore™
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### [SEC-100: Cybersecurity Essentials](https://www.offsec.com/courses/sec-100/)
+<img src="OffSec/outline/SEC-100-color-outline.svg" width="120" height="120" alt="SEC-100 Outline">
+<p><em>OSCC-SEC</em></p>
+
+</td>
+<td align="center" width="20%">
+
+### [SJD-100: Secure Java Development Essentials](https://www.offsec.com/courses/sjd-100/)
+<img src="OffSec/outline/SJD-100-color-outline.svg" width="120" height="120" alt="SJD-100 Outline">
+<p><em>OSCC-SJD</em></p>
+
+</td>
+</tr>
+</table>
+
+---
+
+</div>
 
 ---
 
