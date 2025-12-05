@@ -12,13 +12,96 @@
 
 ## 🎯 About OffSec
 
-[**Offensive Security (OffSec)**](https://www.offsec.com) is the worldwide leader in cybersecurity training and certification, known for its hands-on, practical approach to penetration testing and offensive security. OffSec's courses and certifications are globally recognized standards in the cybersecurity industry.
+[**Offensive Security (OffSec)**](https://www.offsec.com)  is a global leader in cybersecurity education, built on a commitment to excellence, integrity, and growth. From our beginnings to today, we've empowered individuals and organizations to outsmart cyber threats, earning recognition and trust worldwide.
 
 Founded by renowned security experts, OffSec offers industry-leading training programs that prepare cybersecurity professionals for real-world challenges. Their certifications, such as the prestigious **Offensive Security Certified Professional (OSCP)**, are widely respected by employers and organizations worldwide.
 
 ### 🔐 Core Philosophy
 
 > **Learn by Doing** - OffSec believes in practical, hands-on training that simulates real-world scenarios, enabling students to develop genuine expertise through immersive experiences.
+
+## 🏆 OffSec Awards & Recognitions
+
+### CORE: Creating Outstanding Results Everyday
+
+OffSec's CORE Award is a special honor that recognizes team members who do great work every day.
+
+### Industry Recognition & Awards
+
+#### 2024 Awards
+
+<table>
+  <tr>
+    <td width="33%" style="border: 1px solid #ddd; padding: 10px;">
+      <strong>Hot Company Breach & Attack Simulation</strong><br>
+      <a href="https://cyberdefenseawards.com/"><img src="https://img.shields.io/badge/Cyber_Defense_Awards-2024-blue" alt="Cyber Defense Awards"></a>
+    </td>
+    <td width="33%" style="border: 1px solid #ddd; padding: 10px;">
+      <strong>Next Gen Cybersecurity Education— for Enterprises</strong><br>
+      <a href="https://cyberdefenseawards.com/"><img src="https://img.shields.io/badge/Cyber_Defense_Awards-2024-blue" alt="Cyber Defense Awards"></a>
+    </td>
+    <td width="33%" style="border: 1px solid #ddd; padding: 10px;">
+      <strong>Market Leader Cybersecurity Education— for Governments</strong><br>
+      <a href="https://cyberdefenseawards.com/"><img src="https://img.shields.io/badge/Cyber_Defense_Awards-2024-blue" alt="Cyber Defense Awards"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" style="border: 1px solid #ddd; padding: 10px;">
+      <strong>Cutting Edge Cybersecurity Education— for SMBs</strong><br>
+      <a href="https://cyberdefenseawards.com/"><img src="https://img.shields.io/badge/Cyber_Defense_Awards-2024-blue" alt="Cyber Defense Awards"></a>
+    </td>
+    <td width="33%" style="border: 1px solid #ddd; padding: 10px;">
+      <strong>Most Innovative Cybersecurity Service Provider</strong><br>
+      <a href="https://cyberdefenseawards.com/"><img src="https://img.shields.io/badge/Cyber_Defense_Awards-2024-blue" alt="Cyber Defense Awards"></a>
+    </td>
+    <td width="33%" style="border: 1px solid #ddd; padding: 10px;">
+      <strong>Editor's Choice Cybersecurity Training</strong><br>
+      <a href="https://cyberdefenseawards.com/"><img src="https://img.shields.io/badge/Cyber_Defense_Awards-2024-blue" alt="Cyber Defense Awards"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" style="border: 1px solid #ddd; padding: 10px;">
+      <strong>Editor's Choice Cybersecurity Training Videos</strong><br>
+      <a href="https://cyberdefenseawards.com/"><img src="https://img.shields.io/badge/Cyber_Defense_Awards-2024-blue" alt="Cyber Defense Awards"></a>
+    </td>
+    <td width="33%" style="border: 1px solid #ddd; padding: 10px;">
+      <strong>Best Cybersecurity Education Provider</strong><br>
+      <a href="https://cybersecurity-excellence-awards.com/2024-cybersecurity-excellence-awards/"><img src="https://img.shields.io/badge/Cybersecurity_Excellence_Awards-2024-green" alt="Cybersecurity Excellence Awards"></a>
+    </td>
+    <td width="33%" style="border: 1px solid #ddd; padding: 10px;">
+      <strong>Best Cybersecurity Certification:<br>PEN-200 (OSCP)</strong><br>
+      <a href="https://cybersecurity-excellence-awards.com/2024-cybersecurity-excellence-awards/"><img src="https://img.shields.io/badge/Cybersecurity_Excellence_Awards-2024-green" alt="Cybersecurity Excellence Awards"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" style="border: 1px solid #ddd; padding: 10px;">
+      <strong>Cybersecurity Training: Learn Enterprise</strong><br>
+      <a href="https://cybersecurity-excellence-awards.com/2024-cybersecurity-excellence-awards/"><img src="https://img.shields.io/badge/Cybersecurity_Excellence_Awards-2024-green" alt="Cybersecurity Excellence Awards"></a>
+    </td>
+  </tr>
+</table>
+
+#### 2023 Awards
+
+<table>
+  <tr>
+    <td width="50%" style="border: 1px solid #ddd; padding: 10px;">
+      <strong>#8 Best Large Company for Remote Workers</strong><br>
+      <a href="https://qz.com/list/best-companies-to-work-from-home-2023"><img src="https://img.shields.io/badge/Quartz-2023-orange" alt="Quartz"></a>
+    </td>
+  </tr>
+</table>
+
+#### 2022 Awards
+
+<table>
+  <tr>
+    <td width="50%" style="border: 1px solid #ddd; padding: 10px;">
+      <strong>EXP-301: Best Professional Certification Program</strong><br>
+      <a href="https://www.scmagazine.com/home/security-news/best-professional-certification-program-finalists/"><img src="https://img.shields.io/badge/SC_Media-2022-red" alt="SC Media"></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
