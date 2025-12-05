@@ -166,7 +166,7 @@ Inspired by OffSec's world-renowned certifications, these powerful guides lead y
 </tr>
 </table>
 
-### Course Outlines Repository
+### Course certification badge
 
 Here are the course outlines available in this repository:
 
