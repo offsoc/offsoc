@@ -1,82 +1,36 @@
-# 👋 Hi, I’m @offsoc  
+<!-- OFFSEC PROFILE README -->
+<div align="center">
+  
+  ![OffSec Banner Logo](OffSec/logo/OffSec_id-87n3Zze_3.jpeg)
+  
+  # OffSec Professional Profile
+  
+  _Cybersecurity | Penetration Testing | Red Teaming | OSINT_
+  
+  [![OffSec Official Website](https://img.shields.io/badge/OffSec-Official%20Website-ED1C24?style=for-the-badge&logo=firefox)](https://www.offsec.com)
+  [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/offsoc)
+  
+</div>
 
-🌍 **Interests:** Cybersecurity, Red Teaming, Open-source Intelligence (OSINT), Software Development，Linux System Development Engineer (Kali Linux System Development, RedHat System Development)    
-📚 **Currently Learning:** Rust, Advanced Bash Scripting, PowerShell for AD Management, Kubernetes  
-🤝 **Looking to Collaborate On:** Security tools, Open-source projects, Enterprise software development  
-📧 **How to Reach Me:** Contact me through encrypted channels  
-👩 **Tox:** `6E4F7D0C86D95FAF946FAFF1D59342447BD3AFF8337F5D77E08DCACF5F7F4A0BA98AAFFFE51C`  
-😄 **Pronouns:** He/Him  
-⚡ **Fun Fact:** Passionate about finding innovative security solutions and simplifying complex systems!  
+---
 
-### Platforms: 
-[![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)](https://www.kali.org/get-kali)
-[![RHEL](https://img.shields.io/badge/-RHEL-CC0000?logo=redhat&logoColor=white)](https://developers.redhat.com/products/rhel/download#publicandprivatecloudreadyrhelimages)
-[![Fedora](https://img.shields.io/badge/-Fedora-294172?logo=fedora&logoColor=white)](https://fedoraproject.org/workstation/)
-[![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-10B981?logo=rockylinux&logoColor=white)](https://rockylinux.org/download)
-[![AlmaLinux](https://img.shields.io/badge/-AlmaLinux-2482C5?logo=almalinux&logoColor=white)](https://almalinux.org/get-almalinux/)
-[![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793d1?logo=archlinux&logoColor=white)](https://archlinux.org/download/)
-[![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)](https://www.debian.org)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-ff4500?logo=ubuntu&logoColor=white)](https://ubuntu.com/download/desktop)
-[![FreeBSD](https://img.shields.io/badge/-FreeBSD-AB2B28?logo=freebsd&logoColor=white)](https://www.freebsd.org/where/)
-[![OpenBSD](https://img.shields.io/badge/-OpenBSD-F2CA30?logo=openbsd&logoColor=black)](https://www.openbsd.org/faq/faq4.html)
-[![NetBSD](https://img.shields.io/badge/-NetBSD-FF6600?logo=netbsd&logoColor=white)](https://www.netbsd.org/)
-[![GhostBSD](https://img.shields.io/badge/-GhostBSD-6F5499?logo=freebsd&logoColor=white)](https://www.ghostbsd.org/)
-[![TrueNAS](https://img.shields.io/badge/-TrueNAS-0095D5?logo=truenas&logoColor=white)](https://www.truenas.com/)
-[![Illumos](https://img.shields.io/badge/-Illumos-2E4A62?logo=illumos&logoColor=white)](https://illumos.org/)
-[![SmartOS](https://img.shields.io/badge/-SmartOS-0092CF?logo=joyent&logoColor=white)](https://www.smartos.org/)
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows11)
-[![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)](https://info.microsoft.com/ww-landing-evaluate-windows-server-2025.html?lcid=en-us&culture=en-us&country=us)
+## 🎯 About OffSec
 
+[**Offensive Security (OffSec)**](https://www.offsec.com) is the worldwide leader in cybersecurity training and certification, known for its hands-on, practical approach to penetration testing and offensive security. OffSec's courses and certifications are globally recognized standards in the cybersecurity industry.
 
+Founded by renowned security experts, OffSec offers industry-leading training programs that prepare cybersecurity professionals for real-world challenges. Their certifications, such as the prestigious **Offensive Security Certified Professional (OSCP)**, are widely respected by employers and organizations worldwide.
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=offsoc&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
+### 🔐 Core Philosophy
 
+> **Learn by Doing** - OffSec believes in practical, hands-on training that simulates real-world scenarios, enabling students to develop genuine expertise through immersive experiences.
 
+---
 
-### 📊 GitHub Stats & Languages
-
-<table>
-  <tr>
-    <td width="35%">
-      <img src="https://github-readme-stats.vercel.app/api?username=offsoc&show_icons=true&theme=dark" alt="Offsoc's GitHub Stats" />
-    </td>
-    <td width="35%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offsoc&layout=compact&theme=dark" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
-
-### 🏆 GitHub Profile Summary & Contributions
-
-<table>
-  <tr>
-    <td width="35%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=offsoc&theme=github_dark" alt="GitHub Profile Details" />
-    </td>
-    <td width="35%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=offsoc&theme=github_dark" alt="Contribution Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td width="35%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=offsoc&theme=github_dark" alt="Repos Per Language" />
-    </td>
-    <td width="35%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=offsoc&theme=github_dark" alt="Most Commit Language" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=offsoc&theme=github_dark&utcOffset=8" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
+## 🏆 OffSec Certifications & Courses
 
 ### The OffSec Legends
 
-The OffSec Legends, inspired by OffSec's world-renowned certifications, are powerful guides who lead you through **The Gauntlet**.  
-They assign missions, share wisdom, and call on you to rise beside them to secure victory.
+Inspired by OffSec's world-renowned certifications, these powerful guides lead you through **The Gauntlet**, assigning missions, sharing wisdom, and calling on you to rise beside them to secure victory.
 
 <table>
 <tr>
@@ -133,8 +87,200 @@ They assign missions, share wisdom, and call on you to rise beside them to secur
 </tr>
 </table>
 
+### Course Outlines Repository
 
-### 🚀 Recommended Encrypted Communication Software
+Here are the course outlines available in this repository:
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### [SEC-100 (OSCC-SEC)](https://www.offsec.com/courses/sec-100/)
+<img src="OffSec/outline/SEC-100-color-outline.svg" width="120" height="120" alt="SEC-100 Outline">
+
+</td>
+<td align="center" width="20%">
+
+### [SJD-100 (OSCC-SJD)](https://www.offsec.com/courses/sjd-100/)
+<img src="OffSec/outline/SJD-100-color-outline.svg" width="120" height="120" alt="SJD-100 Outline">
+
+</td>
+<td align="center" width="20%">
+
+### [PEN-200 (OSCP/OSCP+)](https://www.offsec.com/courses/pen-200/)
+<img src="OffSec/outline/PEN-200-color-outline.svg" width="120" height="120" alt="PEN-200 Outline">
+
+</td>
+<td align="center" width="20%">
+
+### [TH-200 (OSTH)](https://www.offsec.com/courses/th-200/)
+<img src="OffSec/outline/TH-200-color-outline.svg" width="120" height="120" alt="TH-200 Outline">
+
+</td>
+<td align="center" width="20%">
+
+### [WEB-200 (OSWA)](https://www.offsec.com/courses/web-200/)
+<img src="OffSec/outline/WEB-200-color-outline.svg" width="120" height="120" alt="WEB-200 Outline">
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+
+### [IR-200 (OSIR)](https://www.offsec.com/courses/ir-200/)
+<img src="OffSec/outline/IR-200-color-outline.svg" width="120" height="120" alt="IR-200 Outline">
+
+</td>
+<td align="center" width="20%">
+
+### [SOC-200 (OSDA)](https://www.offsec.com/courses/soc-200/)
+<img src="OffSec/outline/SOC-200-color-outline.svg" width="120" height="120" alt="SOC-200 Outline">
+
+</td>
+<td align="center" width="20%">
+
+### [PEN-210 (OSWP)](https://www.offsec.com/courses/pen-210/)
+<img src="OffSec/outline/PEN-210-color-outline.svg" width="120" height="120" alt="PEN-210 Outline">
+
+</td>
+<td align="center" width="20%">
+
+### [PEN-300 (OSEP)](https://www.offsec.com/courses/pen-300/)
+<img src="OffSec/outline/PEN-300-color-outline.svg" width="120" height="120" alt="PEN-300 Outline">
+
+</td>
+<td align="center" width="20%">
+
+### [WEB-300 (OSWE)](https://www.offsec.com/courses/web-300/)
+<img src="OffSec/outline/WEB-300-color-outline.svg" width="120" height="120" alt="WEB-300 Outline">
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+
+### [EXP-301 (OSED)](https://www.offsec.com/courses/exp-301/)
+<img src="OffSec/outline/EXP-301-color-outline.svg" width="120" height="120" alt="EXP-301 Outline">
+
+</td>
+<td align="center" width="20%">
+
+### [EXP-312 (OSMR)](https://www.offsec.com/courses/exp-312/)
+<img src="OffSec/outline/EXP-312-color-outline.svg" width="120" height="120" alt="EXP-312 Outline">
+
+</td>
+<td align="center" width="20%">
+
+### [EXP-401 (OSEE)](https://www.offsec.com/courses/exp-401/)
+<img src="OffSec/outline/EXP-401-color-outline.svg" width="120" height="120" alt="EXP-401 Outline">
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Technical Expertise
+
+### Core Competencies
+- **Cybersecurity Research & Development**
+- **Penetration Testing & Red Teaming**
+- **Open-source Intelligence (OSINT)**
+- **Software Development & Automation**
+- **Linux System Engineering**
+
+### Current Focus Areas
+- Rust Programming Language
+- Advanced Bash Scripting
+- PowerShell for Active Directory Management
+- Kubernetes Security & Deployment
+
+### Platform Proficiencies
+[![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)](https://www.kali.org/get-kali)
+[![RHEL](https://img.shields.io/badge/-RHEL-CC0000?logo=redhat&logoColor=white)](https://developers.redhat.com/products/rhel/download#publicandprivatecloudreadyrhelimages)
+[![Fedora](https://img.shields.io/badge/-Fedora-294172?logo=fedora&logoColor=white)](https://fedoraproject.org/workstation/)
+[![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-10B981?logo=rockylinux&logoColor=white)](https://rockylinux.org/download)
+[![AlmaLinux](https://img.shields.io/badge/-AlmaLinux-2482C5?logo=almalinux&logoColor=white)](https://almalinux.org/get-almalinux/)
+[![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793d1?logo=archlinux&logoColor=white)](https://archlinux.org/download/)
+[![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)](https://www.debian.org)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-ff4500?logo=ubuntu&logoColor=white)](https://ubuntu.com/download/desktop)
+[![FreeBSD](https://img.shields.io/badge/-FreeBSD-AB2B28?logo=freebsd&logoColor=white)](https://www.freebsd.org/where/)
+[![OpenBSD](https://img.shields.io/badge/-OpenBSD-F2CA30?logo=openbsd&logoColor=black)](https://www.openbsd.org/faq/faq4.html)
+[![NetBSD](https://img.shields.io/badge/-NetBSD-FF6600?logo=netbsd&logoColor=white)](https://www.netbsd.org/)
+[![GhostBSD](https://img.shields.io/badge/-GhostBSD-6F5499?logo=freebsd&logoColor=white)](https://www.ghostbsd.org/)
+[![TrueNAS](https://img.shields.io/badge/-TrueNAS-0095D5?logo=truenas&logoColor=white)](https://www.truenas.com/)
+[![Illumos](https://img.shields.io/badge/-Illumos-2E4A62?logo=illumos&logoColor=white)](https://illumos.org/)
+[![SmartOS](https://img.shields.io/badge/-SmartOS-0092CF?logo=joyent&logoColor=white)](https://www.smartos.org/)
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows11)
+[![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)](https://info.microsoft.com/ww-landing-evaluate-windows-server-2025.html?lcid=en-us&culture=en-us&country=us)
+
+---
+
+## 🤝 Collaboration Interests
+
+I'm actively seeking collaborations in the following areas:
+
+- **Security Tool Development** - Creating cutting-edge tools for penetration testing and security research
+- **Open-source Projects** - Contributing to and maintaining security-focused open-source initiatives
+- **Enterprise Software Development** - Building robust, secure enterprise solutions
+
+---
+
+## 📊 GitHub Statistics
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=offsoc&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
+
+<table>
+  <tr>
+    <td width="35%">
+      <img src="https://github-readme-stats.vercel.app/api?username=offsoc&show_icons=true&theme=dark" alt="Offsoc's GitHub Stats" />
+    </td>
+    <td width="35%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offsoc&layout=compact&theme=dark" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
+### 🏆 GitHub Profile Summary & Contributions
+
+<table>
+  <tr>
+    <td width="35%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=offsoc&theme=github_dark" alt="GitHub Profile Details" />
+    </td>
+    <td width="35%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=offsoc&theme=github_dark" alt="Contribution Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td width="35%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=offsoc&theme=github_dark" alt="Repos Per Language" />
+    </td>
+    <td width="35%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=offsoc&theme=github_dark" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=offsoc&theme=github_dark&utcOffset=8" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📞 Contact Information
+
+For professional inquiries and collaborations, I can be reached through encrypted channels:
+
+- **Tox:** `6E4F7D0C86D95FAF946FAFF1D59342447BD3AFF8337F5D77E08DCACF5F7F4A0BA98AAFFFE51C`
+
+---
+
+## 🔒 Recommended Encrypted Communication Software
 
 1. **Mattermost Enterprise Edition**  
 2. **Wire-Server**  
@@ -142,10 +288,11 @@ They assign missions, share wisdom, and call on you to rise beside them to secur
 4. **Zulip Enterprise Edition**  
 5. **Rocket.Chat**  
 6. **Tox**  
-7. **Jami**  
+7. **Jami**
 
+---
 
-### 🛡️ Open-Source Alternatives to Okta for Private Deployment
+## 🛡️ Open-Source Alternatives to Okta for Private Deployment
 
 If you're looking for open-source alternatives to Okta with support for private deployment, consider the following options. These tools provide similar Identity and Access Management (IAM) features and can be deployed on your own infrastructure:
 
@@ -186,10 +333,19 @@ If you're looking for open-source alternatives to Okta with support for private 
    - Deployable on-premises and in private cloud environments, with core functionalities covered in the community edition.
 
 10. **[Shibboleth](https://shibboleth.net/):**  
-   - Widely used in academia, open-source identity provider, and service provider solution supporting SAML2 protocol.  
-   - Deployable on private servers, ideal for environments requiring high security and collaboration.
+    - Widely used in academia, open-source identity provider, and service provider solution supporting SAML2 protocol.  
+    - Deployable on private servers, ideal for environments requiring high security and collaboration.
 
 These open-source IAM solutions offer powerful user authentication, single sign-on, multi-factor authentication, and user management features. They support private deployment and are suitable for running on your own servers or in private cloud environments. Choose the right tool based on your specific needs and technical environment.
 
+---
 
-✨ **This repository is special because its `README.md` appears on your GitHub profile. You can click the Preview link to see your changes.** ✨
+<div align="center">
+  
+  ---
+  
+  _This repository is special because its `README.md` appears on your GitHub profile._
+  
+  [![OffSec Official Website](https://img.shields.io/badge/Visit-OffSec.com-ED1C24?style=for-the-badge)](https://www.offsec.com)
+  
+</div>
