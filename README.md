@@ -3,7 +3,7 @@
   
   ![OffSec Banner Logo](OffSec/logo/OffSec_id-87n3Zze_3.jpeg)
   
-  # OffSec Professional Profile
+  # About OffSec Services Limited
   
   _Cybersecurity | Penetration Testing | Red Teaming | OSINT_
   
