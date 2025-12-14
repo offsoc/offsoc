@@ -528,8 +528,6 @@ If you're looking for open-source alternatives to Okta with support for private 
 
 These open-source IAM solutions offer powerful user authentication, single sign-on, multi-factor authentication, and user management features. They support private deployment and are suitable for running on your own servers or in private cloud environments. Choose the right tool based on your specific needs and technical environment.
 
----
-
 <div align="center">
   
   ---
